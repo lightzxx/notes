@@ -35,3 +35,10 @@
 * Contextual skills are critical
 * Data science fosters diversity
 
+# 2. Fields of Study<a name="fields"></a>
+## Conclusions
+* Big data and data science differ
+* They share some goals and techniques
+* Big data science combines the two
+
+
