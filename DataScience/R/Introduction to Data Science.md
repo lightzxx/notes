@@ -39,6 +39,15 @@
 ## Big data
 ### Volume, Velocity, Variety
 
+### Big data
+* Machine learning and word counts
+* Need at least two Vs
+
+### Data Science without Big Data
+* GEnetrics data
+* Streaming sensor data
+* Facial recognition in photographs
+
 ### Conclusions
 * Big data and data science differ
 * They share some goals and techniques
