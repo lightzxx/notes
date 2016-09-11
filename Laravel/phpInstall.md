@@ -14,3 +14,9 @@ php -r "unlink('composer-setup.php');"
 mv composer.phar /usr/local/bin/composer
 ```
 
+> Using php of the mamp on my computer
+
+```
+source ~/.bash_profile
+```
+> [Packagist](https://packagist.org/packages) php packages
