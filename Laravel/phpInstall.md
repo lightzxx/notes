@@ -20,3 +20,11 @@ mv composer.phar /usr/local/bin/composer
 source ~/.bash_profile
 ```
 > [Packagist](https://packagist.org/packages) php packages
+
+> Create laravel 5 project
+
+`composer create-project laravel/laravel learning-laravel-5`
+
+> -t document-root
+`php -S localhost:8989 -t public`
+
