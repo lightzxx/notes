@@ -27,3 +27,14 @@
 * Assignable
 * Realistic
 * Time-bound
+
+### Classification accuracy
+* Sensitivity
+* Specificity
+* Positive Predictive value
+* Negative Predictive value
+
+### Conclusions
+* Measurement boosts awareness
+* Awareness contributes to equality
+* measure thoughtfully and sensitively
