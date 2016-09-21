@@ -18,3 +18,5 @@ dependencies {
     testCompile group: 'pl.pragmatists', name: 'JUnitParams', version: '1.0.5'
 }
 ```
+
+* You should always write a test immediately after a bug is encountered.
