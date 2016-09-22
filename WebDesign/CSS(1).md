@@ -28,3 +28,9 @@
 
 
 * `p.intro` means that the intro class must be applied specifically to a <p> tag(<p class="intro">) for this style to work.
+
+* An `em` is the default browser font-size, so `2em` is twice the normal text size.
+
+### Inheritance
+* Inheritance is the process by which some CSS properties applied to one tag are passed on to nested tags.
+* 
