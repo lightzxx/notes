@@ -1,1 +1,11 @@
 http://scanlibs.com/website-html5-css3-bootstrap4/
+
+http://scanlibs.com/bootstrap-design-fundamentals/
+
+http://scanlibs.com/fullstack-javascript/
+
+http://scanlibs.com/enterprise-software-python/
+
+http://scanlibs.com/learning-python-design-patterns-2nd/
+
+http://scanlibs.com/python-analyze-data/

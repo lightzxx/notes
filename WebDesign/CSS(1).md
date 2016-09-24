@@ -33,4 +33,10 @@
 
 ### Inheritance
 * Inheritance is the process by which some CSS properties applied to one tag are passed on to nested tags.
+
+#### Inheritance doesn't strictly apple:
+* As a general rule, properties that affect the placement of elements on the page or the margins, background colors, and borders of elements aren't inherited.
+* Web browsers use their own inherent styles to format various tags ***It's usually a good idea to eliminate these build-in browser styles-it'll make designing sites that work consistently among different browsers easier.***
+* When styles conflict, the more specific style wins out.
+* The browser uses the more specific styling
 * 
