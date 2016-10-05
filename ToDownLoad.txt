@@ -9,3 +9,8 @@ http://scanlibs.com/enterprise-software-python/
 http://scanlibs.com/learning-python-design-patterns-2nd/
 
 http://scanlibs.com/python-analyze-data/
+
+
+http://scanlibs.com/intro-secure-software/
+
+http://scanlibs.com/java-web-development/
