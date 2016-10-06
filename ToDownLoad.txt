@@ -14,3 +14,7 @@ http://scanlibs.com/python-analyze-data/
 http://scanlibs.com/intro-secure-software/
 
 http://scanlibs.com/java-web-development/
+
+http://scanlibs.com/angular-2-development/
+
+http://scanlibs.com/machine-learning-scikit-learn/
